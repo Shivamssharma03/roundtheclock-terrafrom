@@ -21,11 +21,11 @@ azs = [
 ]
 
 tags = {
-  Environment = "prod"
+  Environment = "d3v"
   Project     = "rtctek"
 }
 
-environment = "prod"
+environment = "d3v"
 project     = "rtctekdevops"
 
 
